@@ -1,0 +1,38 @@
+.weather{
+     background-color: aquamarine;
+     min-height: 50vh;
+     padding: 20px;
+}
+.search{
+     display: flex;
+     align-items: center;
+     gap: 10px;
+}
+.search input{
+     border: none;
+     outline: none;
+     font-size: 14px;
+     border-radius: 14px;
+     padding: 10px;
+}
+.search img{
+     width: 30px;
+     height: 30px;
+     border-radius: 50%;
+     background-color: antiquewhite;
+     padding: 4px;
+}
+.city{
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+}
+.city img{
+     width: 150px;
+}
+.bottom{
+     margin-top: 30px;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}

@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+#root{
+  background-color: rgba(56, 56, 189, 0.804);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
